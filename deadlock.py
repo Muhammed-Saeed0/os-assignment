@@ -31,4 +31,5 @@ a=threading.Thread(target=thread_1)
 b=threading.Thread(target=thread_2)
 
 a.start()
+
 b.start()
